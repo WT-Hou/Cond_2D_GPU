@@ -1,0 +1,3 @@
+The parameters for the tight-binding model are following(the dimesion is in temparature and please use tab to seperate the values):
+t	J_H	mu	eta
+-1.0 	-8.0	10	0.1
